@@ -18,7 +18,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,nodejs,mysql,mongodb,docker,redis,kafka,nginx,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nodejs,mysql,mongodb,docker,redis,nginx,git,github,vscode" />
 </p>
 
 ---
