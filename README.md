@@ -7,10 +7,10 @@
 
 ---
 
-- 🔭 I’m currently working on: **Quiz Page Builder (React + React DnD + Tailwind)**
+- 🔭 I’m currently working on: **Quiz Page Builder (React + Tailwind)**
 - 🌱 I’m learning: **English communication & system design**
-- 💼 Tech Stack: **Laravel, React.js, Node.js, Docker, Redis, Kafka, MongoDB**
-- 🧠 Also familiar with: **Magento, Nginx, MySQL, Socket.IO, REST APIs**
+- 💼 Tech Stack: **Laravel, React.js, Node.js, Docker, Redis, MongoDB**
+- 🧠 Also familiar with: **Nginx, MySQL, Socket.IO, REST APIs**
 - ⚡ Fun fact: *I love debugging at midnight 🌙*
 
 ---
